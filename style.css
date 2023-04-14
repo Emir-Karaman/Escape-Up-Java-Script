@@ -1,0 +1,48 @@
+
+#game{
+    width: 400px;
+    height: 500px;
+    border: 1px solid royalblue;
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transform-style: preserve-3d;
+}
+
+#character{
+    width: 20px;
+    height: 20px;
+    background-color: rebeccapurple;
+    background-image: url('Character2.png');
+    border-radius: 50%;
+    position: relative;
+    top: 300px;
+    left: 190px;
+    z-index: 100000;
+    transform-style: preserve-3d;
+    
+}
+.block{
+    width: 400px;
+    height: 20px;
+    position: relative;
+    top: 100px;
+    margin-top: -20px;
+    transform-style: preserve-3d;
+}
+.hole{
+    width: 40px;
+    height: 20px;
+    background-color: black;
+    position: relative;
+    top: 100px;
+    margin-top: -20px;
+    transform-style: preserve-3d; 
+}
+
+
+
+
+  
