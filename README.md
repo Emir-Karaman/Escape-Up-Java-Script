@@ -1,7 +1,8 @@
 # Js GAme
 JAVA SCRİPT ESCAPE UP GAME 
 
- Java script, html ve css kullanarak başlangıç seviyesi oyun
+Java script, html ve css kullanarak başlangıç seviyesi oyun .
+ 
 Bu mesaj siteye girildiği an oyunu tanıtmak için gelir. "Tamam" düğmesine baslıdığında oyun başlar.
 ![2023-04-24](https://user-images.githubusercontent.com/75396000/233918454-5331d627-913a-4088-bcc7-d14b349ade44.png)
 
